@@ -1,0 +1,9 @@
+.toggle-hide {
+    transition: all 0.7s ease-in-out;
+    opacity: 1;
+}
+
+#hide {
+    opacity: 0;
+    transform: translateX(-150%);
+}
