@@ -1,8 +1,8 @@
 import React from 'react';
 // import UseState from './Components/UseState';
 // import UseEffect from './Components/UseEffect';
-import UseMemo from './Components/UseMemoPrac';
-import UseReducer from './Components/UseReducer';
+// import UseMemo from './Components/UseMemoPrac';
+// import UseReducer from './Components/UseReducer';
 
 const App = () => {
         return (
@@ -10,7 +10,7 @@ const App = () => {
                 {/* <UseState /> */}
                 {/* <UseEffect /> */}
                 {/* <UseMemo /> */}
-                <UseReducer />
+                {/* <UseReducer /> */}
             </>
         );
 };
